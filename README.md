@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Mark-Programs
-- 👀 I’m interested in web development.  I have been training endlessly in HTML, CSS, JavaScript, React, Node, PSQL, and MongoDB.
-- 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on any projects that would contribute to my portfolio (interview portfolio).
-- 📫 How to reach me: codewithklrguy@gmail.com.
+- Hi, I’m Mark
+- What I'm working on: Learning Full Stack Development (NodeJS, React, Typescript, MongoDB)
+- I am a Network Systems Administrator right now, aiming to join our Dev team in the near future
+- I’m looking to collaborate on any projects that would contribute to my portfolio (interview portfolio)
+- Twitter: @markprograms
+- Email: codewithklrguy@gmail.com
+
+My website: https://mark-programs.github.io/cv/
+(It needs an update to be honest.  I'll do that once I make the Dev team here)
 
 <!---
 Mark-Programs/Mark-Programs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
