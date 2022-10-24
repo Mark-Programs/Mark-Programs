@@ -1,5 +1,5 @@
 - Hi, I’m Mark
-- What I'm working on: Learning Full Stack Development (NodeJS, React, Typescript, MongoDB)
+- What I'm working on: Learning Full Stack Development (NodeJS, React, Typescript, MongoDB, HTML, CSS, Python, etc)
 - Main language: Python
 - I am a Network Systems Administrator right now, aiming to join our Dev/DevOps team in the near future
 - I’m looking to collaborate on any projects that would contribute to my portfolio 
